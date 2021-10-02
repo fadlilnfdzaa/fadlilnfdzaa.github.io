@@ -570,7 +570,7 @@ body {
   color: #000;
 }
 .profile .profile-image {
-  width: 50%;
+  width: 70%;
 }
 @media (max-width: 480px) {
   .profile {
